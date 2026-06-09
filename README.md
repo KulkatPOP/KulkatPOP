@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! Soy Sharick 👋
 
-<!--
-**KulkatPOP/KulkatPOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería Informática** apasionada por el desarrollo de software, la lógica de programación y la creación de experiencias web interactivas y funcionales.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Sobre mí
+- 🎓 Actualmente cursando la carrera de **Ingeniería Informática**.
+- 🚀 Enfocada en dominar el desarrollo tanto Frontend como Backend.
+- ⚙️ Me entusiasma trabajar en proyectos que unan el software con el hardware y la simulación.
+
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes & Paradigmas:** Java, Programación Orientada a Objetos (POO), JavaScript (ES6+).
+- **Desarrollo Web & Gráficos:** HTML5, CSS3, Three.js, WordPress.
+- **Hardware & Simulación:** Gestión de circuitos y componentes en Tinkercad / Arduino.
+- **Gestión & Metodologías:** Organización de flujos de trabajo con Trello.
+
+### ✨ Proyectos Destacados
+- [🌊 Visualizador Rítmico 3D](https://KulkatPOP.github.io/Visualizador-R-tmico-3D---Ondas-Pasteles/): Un ecualizador tridimensional interactivo que procesa audio digital interno en tiempo real transformándolo en ondas fluidas.
+- [📦 Mi Primer Backend](https://github.com/KulkatPOP/mi-primer-backend): Explorando arquitecturas, lógica del lado del servidor y manejo de datos.
+
+---
+
+⚙️ *¡Siempre lista para aprender nuevas tecnologías y transformar ideas en líneas de código funcionales!*
